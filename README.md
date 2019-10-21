@@ -12,7 +12,7 @@ read [how creating branch](https://help.github.com/articles/creating-and-deletin
 
 ```js 
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'Your_Name',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
@@ -23,10 +23,12 @@ module.exports = {
 
 + Create Pull-Request to `master` branch in this repository, read [how creating PR](https://help.github.com/articles/creating-a-pull-request/)
 + Don't forget to give 🌟 in this repository, you can check in [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
-+ You should follow github [@mazipan](https://github.com/mazipan)
++ You should follow github [@mazipan](https://github.com/mazipan).
 + I will check your PRs and will **add `invalid` label** and **close the PRs** that not follow the steps
 + Have fun and welcome to open source world.
 + Keep in mind, quality is always number one when creating PRs.
+
+piupdate
 
 ## 💰 Is this data collection?
 
